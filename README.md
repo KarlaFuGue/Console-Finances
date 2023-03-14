@@ -7,13 +7,17 @@ This activity required me to create codes to analise financial data
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Open index.html file with default browser, and the analisys made on the JS file will be diplayed on the brower.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+1.Open file with default browser
+2. Right click on the screen
+3. Select Inspect
+4. Console
+5. The Result of the Analysis will be displayed on the console (see attached screenshot to see example)
 
-    ```md
-    ![alt text](assets/Screenshot%202023%2D03%2D14%20at%2022.43.39.png)
-    ```
+```md
+![alt text](assets/Screenshot%202023%2D03%2D14%20at%2022.43.39.png)
+```
 
 ## Credits
 
